@@ -1,5 +1,5 @@
 # NeoGF-gcmtool
-This is a fork of gcmtool from [NeoGF](https://github.com/Virtual-World-RE/NeoGF) to be used as its own library.
+This is a fork of gcmtool from [NeoGF](https://github.com/Virtual-World-RE/NeoGF) to be used as its own library, as out of the all the Python libs I found for dealing with GameCube disc images, this one was the best for my usecases.
 
 gcmtool readme below:
 
